@@ -1,4 +1,4 @@
-terraform-provider-traefik
+terraform-provider-mock
 .terraform/
 
 *.tfstate
