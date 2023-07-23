@@ -19,3 +19,6 @@ Copy provider binary into plugins directory:
 - `mkdir -p ~/.terraform.d/plugins/terraform-example.com/mockprovider/mock/1.0.0/darwin_amd64`
 
 - `cp terraform-provider-mock ~/.terraform.d/plugins/terraform-example.com/mockprovider/mock/1.0.0/darwin_amd64`
+
+
+- Generate provider docs using `tfplugindocs generate`
