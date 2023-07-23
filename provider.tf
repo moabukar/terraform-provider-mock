@@ -1,6 +1,6 @@
 terraform {
   required_providers {
-    example = {
+    mock = {
       version = "~> 1.0.0"
       source  = "terraform-example.com/mockprovider/mock"
     }

@@ -5,6 +5,6 @@ provider "terraform-example.com/mockprovider/mock" {
   version     = "1.0.0"
   constraints = "~> 1.0.0"
   hashes = [
-    "h1:1nlanXV9vSpeLDzaD50FCDgiSMuDcffhtkoeDa7uEgA=",
+    "h1:byjJOh3mDHgdTKvhSbO2XgcnsXANG7oHSLcUQEWMLnA=",
   ]
 }
